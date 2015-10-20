@@ -16,7 +16,7 @@ Use these step-by-step instructions to install [Limk Related Content Widgets](ht
  
  5. **Select a blog** if you have more than one, then click on **Add Widget**. 
 
-![Select a blog, and click Add Widget](https://limk.com/assets/img/help/Limk-blogger-new.png)
+ ![Select a blog, and click Add Widget](https://limk.com/assets/img/help/Limk-blogger-new.png)
  
 And you're done! The widget should now appear on your blog.
 
