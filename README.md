@@ -1,6 +1,6 @@
 # Related Post Widget for Blogger
 
-> Displays related posts in your Blogger site https://goo.gl/djZei0
+> Easiest Way to Show Related Content in your Blogger site https://goo.gl/djZei0
 
 Displaying related posts is a smart way for keeping your site visitors around. Early users of this Blogger widget were able o to lower bounce rates to **20%** and keep average visit times to **over 2 minutes**.
 
