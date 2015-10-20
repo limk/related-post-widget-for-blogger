@@ -13,7 +13,8 @@ Use these step-by-step instructions to install [Limk Related Content Widgets](ht
 
 
 ![Click Install Widget](https://limk.com/assets/img/help/limk-install-widget-blogger.png)
-<hr>
+
+
  5. **Select a blog** if you have more than one, then click on **Add Widget**.  
 
 
